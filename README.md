@@ -1,9 +1,8 @@
 
-# Portfolio Website - Shubham
+# Portfolio Website - Sandeep Singh
 
 My portfolio displayed in a web page. 
 
-You can find the same 
 
 
 ## Technologies Used
@@ -27,5 +26,5 @@ You can find the same
 
 ## Credits
 
-**©** **Shubham** | *2020*
+**©** **Sandeep Singh** | *2020*
 
