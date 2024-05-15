@@ -1,9 +1,9 @@
 
-# Portfolio Website - Shubham Singh
+# Portfolio Website - Shubham
 
 My portfolio displayed in a web page. 
 
-You can find the same [here](https://shubham0812.github.io/).
+You can find the same 
 
 
 ## Technologies Used
@@ -27,5 +27,5 @@ You can find the same [here](https://shubham0812.github.io/).
 
 ## Credits
 
-**©** **Shubham Kumar Singh** | *2020*
+**©** **Shubham** | *2020*
 
