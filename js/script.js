@@ -33,7 +33,7 @@ $(document).ready(function () {
   });
 
   new Typed(".typed", {
-    strings: ["iOS Developer"],
+    strings: ["Android Developer"],
     typeSpeed: 60,
     loop: false,
     startDelay: 800,
@@ -41,14 +41,14 @@ $(document).ready(function () {
     onComplete: function () {
       console.log("finished babt");
       new Typed(".alternate-job", {
-        strings: ["Freelancer"],
+        strings: ["Fresher"],
         typeSpeed: 60,
         loop: false,
         startDelay: 0,
         showCursor: false,
         onComplete: function () {
           new Typed(".location-text", {
-            strings: ["Bengaluru, India"],
+            strings: ["Noida, India"],
             typeSpeed: 60,
             loop: false,
             startDelay: 0,
@@ -255,7 +255,7 @@ function showAboutIntroductionTexts() {
   if (!aboutSectionEntered) {
     new Typed("#work", {
       strings: [
-        "Currently working @ <span class = 'color-primary'>Mobibox Softech Pvt Ltd, Near G.E.B. Office, Pramukh Hills, Balitha, Vapi, Gujarat</span>",
+        "Currently working @ <span class = 'color-primary'>Dailyrounds/Marrow, ex-Spacebasic Inc., ex-Infosys</span>",
       ],
       typeSpeed: 20,
       loop: false,
@@ -309,7 +309,7 @@ function showAboutIntroductionTexts() {
                           onComplete: function () {
                             new Typed(".contribution-text", {
                               strings: [
-                                "I've recently created an <a href='https://www.instagram.com/Sandeep_iosdev/' target='_blank'><span class = 'color-palatte-4'> Instagram</span></a> handle to share my knowledge, connect with awesome people, and help other developers with iOS dev.",
+                                "I've recently created an <a href='https://www.instagram.com/shubham_iosdev/' target='_blank'><span class = 'color-palatte-4'> Instagram</span></a> handle to share my knowledge, connect with awesome people, and help other developers with iOS dev.",
                               ],
                               typeSpeed: 30,
                               loop: false,
